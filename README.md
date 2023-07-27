@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Almaraz De La Quintana</h1>
-<h3 align="center">A passionate web developer and data analytics from Bolivia :bolivia:</h3>
+<h3 align="center">A passionate web developer and data analytics from Bolivia :BO:</h3>
 
 - 🔭 I’m currently working on my graduation proyect **Sistema web basado en aprendizaje automático de apoyo a determinaciones de riesgos cardiacos**
 
