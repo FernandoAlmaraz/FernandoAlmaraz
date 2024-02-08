@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my graduation proyect **Sistema web basado en aprendizaje automático de apoyo a determinaciones de riesgos cardiacos**
 
-- 🌱 I’m currently learning **Spring Boot & Angular**
+- 🌱 I’m currently learning **Spring Boot & React**
 
 - 💬 Ask me about **Data Analitycs with python**
 
